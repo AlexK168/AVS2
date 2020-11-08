@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/CLionProjects/AVS2/part2.cpp
+part2.h
+/home/alex/CLionProjects/AVS2/part2.h
+
+/home/alex/CLionProjects/AVS2/part2.h
+queue
+-
+thread
+-
+mutex
+-
+iostream
+-
+condition_variable
+-
+atomic
+-
+map
+-
+

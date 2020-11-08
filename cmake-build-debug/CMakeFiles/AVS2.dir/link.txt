@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AVS2.dir/main.cpp.o CMakeFiles/AVS2.dir/part2.cpp.o  -o AVS2  -lpthread 
